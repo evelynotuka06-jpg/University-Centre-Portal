@@ -1,0 +1,35 @@
+FILE TO EDIT ON GITHUB: results-level4-second.html
+
+Instructions:
+1. Open your repo: University-Centre-Portal
+2. Click results-level4-second.html
+3. Click the pencil (Edit) icon
+4. Find the existing <table>...</table> block
+5. Replace it with the code below
+6. Scroll down and click "Commit changes"
+
+------------------------------------------------------
+<table>
+  <thead>
+    <tr>
+      <th>S/N</th>
+      <th>Module Code</th>
+      <th>Module Title</th>
+      <th>Credit Unit</th>
+      <th>Score</th>
+      <th>Grade</th>
+      <th>Grade Point</th>
+      <th>Quality Points</th>
+      <th>Classification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="9">Results will appear here after official release.</td>
+    </tr>
+  </tbody>
+</table>
+------------------------------------------------------
+
+NOTE: Same format as First Semester, kept fully blank
+since Second Semester has not started yet.
